@@ -45,7 +45,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 
 
-[edmexercise1.pdf](https://github.com/user-attachments/files/22870692/edmexercise1.pdf)
+![edmexercise1 (1)_page-0001 (1)](https://github.com/user-attachments/assets/fbbe549f-90a5-4774-9df1-596a9ec4eb1b)
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
